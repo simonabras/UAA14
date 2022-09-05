@@ -1,0 +1,15 @@
+/Users/simonabras/Documents/Dev/ITN/Git/UAA14/REVISION/bin/Debug/net6.0/REVISION
+/Users/simonabras/Documents/Dev/ITN/Git/UAA14/REVISION/bin/Debug/net6.0/REVISION.deps.json
+/Users/simonabras/Documents/Dev/ITN/Git/UAA14/REVISION/bin/Debug/net6.0/REVISION.runtimeconfig.json
+/Users/simonabras/Documents/Dev/ITN/Git/UAA14/REVISION/bin/Debug/net6.0/REVISION.dll
+/Users/simonabras/Documents/Dev/ITN/Git/UAA14/REVISION/bin/Debug/net6.0/ref/REVISION.dll
+/Users/simonabras/Documents/Dev/ITN/Git/UAA14/REVISION/bin/Debug/net6.0/REVISION.pdb
+/Users/simonabras/Documents/Dev/ITN/Git/UAA14/REVISION/obj/Debug/net6.0/REVISION.csproj.AssemblyReference.cache
+/Users/simonabras/Documents/Dev/ITN/Git/UAA14/REVISION/obj/Debug/net6.0/REVISION.GeneratedMSBuildEditorConfig.editorconfig
+/Users/simonabras/Documents/Dev/ITN/Git/UAA14/REVISION/obj/Debug/net6.0/REVISION.AssemblyInfoInputs.cache
+/Users/simonabras/Documents/Dev/ITN/Git/UAA14/REVISION/obj/Debug/net6.0/REVISION.AssemblyInfo.cs
+/Users/simonabras/Documents/Dev/ITN/Git/UAA14/REVISION/obj/Debug/net6.0/REVISION.csproj.CoreCompileInputs.cache
+/Users/simonabras/Documents/Dev/ITN/Git/UAA14/REVISION/obj/Debug/net6.0/REVISION.dll
+/Users/simonabras/Documents/Dev/ITN/Git/UAA14/REVISION/obj/Debug/net6.0/ref/REVISION.dll
+/Users/simonabras/Documents/Dev/ITN/Git/UAA14/REVISION/obj/Debug/net6.0/REVISION.pdb
+/Users/simonabras/Documents/Dev/ITN/Git/UAA14/REVISION/obj/Debug/net6.0/REVISION.genruntimeconfig.cache
