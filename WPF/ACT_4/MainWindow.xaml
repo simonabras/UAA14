@@ -1,0 +1,14 @@
+﻿<Window x:Class="ACT_4.MainWindow"
+        xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+        xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+        xmlns:d="http://schemas.microsoft.com/expression/blend/2008"
+        xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006"
+        xmlns:local="clr-namespace:ACT_4"
+        mc:Ignorable="d"
+        Title="MainWindow" Height="250" Width="600">
+    <Grid>
+        <TextBox HorizontalAlignment="Left" VerticalAlignment="Center" TextWrapping="Wrap" Text="Hello" Height="270" Width="195" Margin="50,0,0,0"/>
+        <Button Content="Button" HorizontalAlignment="Right" VerticalAlignment="Center" Height="50" Width="50" Margin="0,0,50,0"/>
+
+    </Grid>
+</Window>
