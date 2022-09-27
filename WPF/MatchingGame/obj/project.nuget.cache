@@ -1,0 +1,13 @@
+{
+  "version": 2,
+  "dgSpecHash": "Gh9h7Jikn2Pe+3QDT62VCcirjZJVdoa8fPbziXyVDbzvgKbVikBUS0mD5YXNqzuotFd6pwgo+ZwJVFg9DDTxdA==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\simonabras\\source\\repos\\MatchingGame\\MatchingGame\\MatchingGame.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\simonabras\\.nuget\\packages\\microsoft.windowsdesktop.app.ref\\6.0.7\\microsoft.windowsdesktop.app.ref.6.0.7.nupkg.sha512",
+    "C:\\Users\\simonabras\\.nuget\\packages\\microsoft.netcore.app.ref\\6.0.7\\microsoft.netcore.app.ref.6.0.7.nupkg.sha512",
+    "C:\\Users\\simonabras\\.nuget\\packages\\microsoft.netcore.app.host.win-arm64\\6.0.7\\microsoft.netcore.app.host.win-arm64.6.0.7.nupkg.sha512",
+    "C:\\Users\\simonabras\\.nuget\\packages\\microsoft.aspnetcore.app.ref\\6.0.7\\microsoft.aspnetcore.app.ref.6.0.7.nupkg.sha512"
+  ],
+  "logs": []
+}
