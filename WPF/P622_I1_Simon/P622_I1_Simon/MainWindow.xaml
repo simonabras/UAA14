@@ -1,0 +1,50 @@
+﻿<Window x:Class="P622_I1_Simon.MainWindow"
+        xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+        xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+        xmlns:d="http://schemas.microsoft.com/expression/blend/2008"
+        xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006"
+        xmlns:local="clr-namespace:P622_I1_Simon"
+        mc:Ignorable="d"
+        Title="Le jeu des 5000" Height="450" Width="800">
+    <Grid Background="#F2AB27">
+        <Grid.ColumnDefinitions>
+            <ColumnDefinition Width="*"></ColumnDefinition>
+            <ColumnDefinition Width="*"></ColumnDefinition>
+        </Grid.ColumnDefinitions>
+        <StackPanel Grid.Column="0">
+            <GroupBox Header="Paramétrage du jeu des joueurs" Margin="10" FontSize="22" FontWeight="Bold" Foreground="#102540">
+                <WrapPanel>
+                    <Label Foreground="#102540">Nombre de dés de 6 à 8</Label>
+                    <TextBox Width="50" Margin="10"></TextBox>
+                    <Label Foreground="#102540">Joueurs déjà inscrits (de 2 à 4)</Label>
+                    <ComboBox Width="380">
+                        <ComboBoxItem>Nom du joueur</ComboBoxItem>
+                    </ComboBox>
+                    <Label Foreground="#102540">Pseudo</Label>
+                    <TextBox Width="200" Margin="10"></TextBox>
+                    <Button x:Name="Add" Width="380" Background="#F2E963" Foreground="#D95829">Ajouter</Button>
+                </WrapPanel>
+            </GroupBox>
+            <GroupBox Margin="10" FontSize="22" FontWeight="Bold">
+                <StackPanel Margin="10">
+                    <Button x:Name="Start" Width="380" Background="#F2E963" Foreground="#D95829">Démarrer le jeu</Button>
+                    <Button x:Name="Stop" Width="380" Background="#F2E963" Foreground="#D95829">Stopper le jeu</Button>
+                </StackPanel>
+            </GroupBox>
+        </StackPanel>
+        <StackPanel Grid.Column="1">
+            <Label FontSize="22" FontWeight="Bold" Foreground="#102540">C'est au tour de ...</Label>
+            <Button x:Name="Play" Width="380" FontSize="22" FontWeight="Bold" Background="#F2E963" Foreground="#D95829">Lancer des DES</Button>
+            <GroupBox Header="Résultats" Margin="10" FontSize="22" FontWeight="Bold" Foreground="#102540">
+                <StackPanel>
+                    <Label Foreground="#102540">Jet : (1)(2)(2)(5)(6)</Label>
+                    <Label Foreground="#102540">Points gagnés : ...</Label>
+                    <Label Foreground="#102540">Total des points : ...</Label>
+                </StackPanel>
+            </GroupBox>
+            <Label FontSize="22" FontWeight="Bold" Foreground="#102540">'Pseudo' tu peux relancer 3 dés !</Label>
+            <CheckBox FontSize="22" FontWeight="Bold">Relancer !</CheckBox>
+            <Button x:Name="NextPlayer" Width="380" FontSize="22" FontWeight="Bold" Background="#F2E963" Foreground="#D95829">JOUEUR SUIVANT</Button>
+        </StackPanel>
+    </Grid>
+</Window>

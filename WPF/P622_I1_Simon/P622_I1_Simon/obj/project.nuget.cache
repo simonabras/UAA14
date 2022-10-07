@@ -1,0 +1,13 @@
+{
+  "version": 2,
+  "dgSpecHash": "uN6ftaEa0eN8JK/n5okLxiiTNexsBewyYhc9/L5K8z6NqIWD44vuM6sO1SBshAV/wVXOdfBYuzV/jfZS2YuMvQ==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\simonabras\\source\\repos\\P622_I1_Simon\\P622_I1_Simon\\P622_I1_Simon.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\simonabras\\.nuget\\packages\\microsoft.windowsdesktop.app.ref\\6.0.7\\microsoft.windowsdesktop.app.ref.6.0.7.nupkg.sha512",
+    "C:\\Users\\simonabras\\.nuget\\packages\\microsoft.netcore.app.ref\\6.0.7\\microsoft.netcore.app.ref.6.0.7.nupkg.sha512",
+    "C:\\Users\\simonabras\\.nuget\\packages\\microsoft.netcore.app.host.win-arm64\\6.0.7\\microsoft.netcore.app.host.win-arm64.6.0.7.nupkg.sha512",
+    "C:\\Users\\simonabras\\.nuget\\packages\\microsoft.aspnetcore.app.ref\\6.0.7\\microsoft.aspnetcore.app.ref.6.0.7.nupkg.sha512"
+  ],
+  "logs": []
+}
