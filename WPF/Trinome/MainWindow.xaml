@@ -1,0 +1,30 @@
+﻿<Window x:Class="Trinome.MainWindow"
+        xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+        xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+        xmlns:d="http://schemas.microsoft.com/expression/blend/2008"
+        xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006"
+        xmlns:local="clr-namespace:Trinome"
+        mc:Ignorable="d"
+        Title="MainWindow" Height="600" Width="400">
+    <Grid Background="DodgerBlue">
+        <Grid.RowDefinitions>
+            <RowDefinition/>
+            <RowDefinition/>
+            <RowDefinition/>
+            <RowDefinition/>
+        </Grid.RowDefinitions>
+        <WrapPanel Grid.Row="0" VerticalAlignment="Center" HorizontalAlignment="Center">
+            <Label Content="A" Margin="30" FontSize="60" FontWeight="Bold" Foreground="Yellow"/>
+            <TextBox Height="80" Width="200" Background="Beige"/>
+        </WrapPanel>
+        <WrapPanel Grid.Row="1" VerticalAlignment="Center" HorizontalAlignment="Center">
+            <Label Content="B" Margin="30" FontSize="60" FontWeight="Bold" Foreground="Yellow"/>
+            <TextBox Height="80" Width="200" Background="Beige"/>
+        </WrapPanel>
+        <WrapPanel Grid.Row="2" VerticalAlignment="Center" HorizontalAlignment="Center">
+            <Label Content="C" Margin="30" FontSize="60" FontWeight="Bold" Foreground="Yellow"/>
+            <TextBox Height="80" Width="200" Background="Beige"/>
+        </WrapPanel>
+        <Button x:Name="primaryButton" Grid.Row="3" Height="100" Width="200" FontSize="38" FontWeight="Bold" Background="LightGray" MouseEnter="Button_MouseEnter" MouseLeave="Button_MouseLeave">CALCULER</Button>
+    </Grid>
+</Window>
