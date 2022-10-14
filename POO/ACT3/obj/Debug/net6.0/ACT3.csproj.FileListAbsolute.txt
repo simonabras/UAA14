@@ -1,0 +1,15 @@
+/Users/simonabras/Documents/Dev/ITN/Git/UAA14/POO/ACT3/obj/Debug/net6.0/ACT3.csproj.AssemblyReference.cache
+/Users/simonabras/Documents/Dev/ITN/Git/UAA14/POO/ACT3/obj/Debug/net6.0/ACT3.GeneratedMSBuildEditorConfig.editorconfig
+/Users/simonabras/Documents/Dev/ITN/Git/UAA14/POO/ACT3/obj/Debug/net6.0/ACT3.AssemblyInfoInputs.cache
+/Users/simonabras/Documents/Dev/ITN/Git/UAA14/POO/ACT3/obj/Debug/net6.0/ACT3.AssemblyInfo.cs
+/Users/simonabras/Documents/Dev/ITN/Git/UAA14/POO/ACT3/obj/Debug/net6.0/ACT3.csproj.CoreCompileInputs.cache
+/Users/simonabras/Documents/Dev/ITN/Git/UAA14/POO/ACT3/bin/Debug/net6.0/ACT3
+/Users/simonabras/Documents/Dev/ITN/Git/UAA14/POO/ACT3/bin/Debug/net6.0/ACT3.deps.json
+/Users/simonabras/Documents/Dev/ITN/Git/UAA14/POO/ACT3/bin/Debug/net6.0/ACT3.runtimeconfig.json
+/Users/simonabras/Documents/Dev/ITN/Git/UAA14/POO/ACT3/bin/Debug/net6.0/ACT3.dll
+/Users/simonabras/Documents/Dev/ITN/Git/UAA14/POO/ACT3/bin/Debug/net6.0/ref/ACT3.dll
+/Users/simonabras/Documents/Dev/ITN/Git/UAA14/POO/ACT3/bin/Debug/net6.0/ACT3.pdb
+/Users/simonabras/Documents/Dev/ITN/Git/UAA14/POO/ACT3/obj/Debug/net6.0/ACT3.dll
+/Users/simonabras/Documents/Dev/ITN/Git/UAA14/POO/ACT3/obj/Debug/net6.0/ref/ACT3.dll
+/Users/simonabras/Documents/Dev/ITN/Git/UAA14/POO/ACT3/obj/Debug/net6.0/ACT3.pdb
+/Users/simonabras/Documents/Dev/ITN/Git/UAA14/POO/ACT3/obj/Debug/net6.0/ACT3.genruntimeconfig.cache
