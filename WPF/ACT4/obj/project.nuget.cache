@@ -1,0 +1,13 @@
+{
+  "version": 2,
+  "dgSpecHash": "niDQvIeS/O9I/demwryTYA1Xyzm6CFmN35s8eM0NnS+JsTswpIrihCVpGPY7oo10L3313XgF/nSXIpGIMYE60g==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\simonabras\\source\\repos\\ACT4\\ACT4\\ACT4.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\simonabras\\.nuget\\packages\\microsoft.windowsdesktop.app.ref\\6.0.7\\microsoft.windowsdesktop.app.ref.6.0.7.nupkg.sha512",
+    "C:\\Users\\simonabras\\.nuget\\packages\\microsoft.netcore.app.ref\\6.0.7\\microsoft.netcore.app.ref.6.0.7.nupkg.sha512",
+    "C:\\Users\\simonabras\\.nuget\\packages\\microsoft.netcore.app.host.win-arm64\\6.0.7\\microsoft.netcore.app.host.win-arm64.6.0.7.nupkg.sha512",
+    "C:\\Users\\simonabras\\.nuget\\packages\\microsoft.aspnetcore.app.ref\\6.0.7\\microsoft.aspnetcore.app.ref.6.0.7.nupkg.sha512"
+  ],
+  "logs": []
+}
