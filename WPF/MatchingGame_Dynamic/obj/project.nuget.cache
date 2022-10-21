@@ -1,0 +1,13 @@
+{
+  "version": 2,
+  "dgSpecHash": "SokHFNr3t5Quw2yIVxkmCbvHm/i4c5+HGSfGbT9flB7SH9O8Ns5m+5OyA2+BPN2zygngNgKdI+GZ/9winMGmgg==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\simonabras\\source\\repos\\MatchingGame_Dynamic\\MatchingGame_Dynamic\\MatchingGame_Dynamic.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\simonabras\\.nuget\\packages\\microsoft.windowsdesktop.app.ref\\6.0.7\\microsoft.windowsdesktop.app.ref.6.0.7.nupkg.sha512",
+    "C:\\Users\\simonabras\\.nuget\\packages\\microsoft.netcore.app.ref\\6.0.7\\microsoft.netcore.app.ref.6.0.7.nupkg.sha512",
+    "C:\\Users\\simonabras\\.nuget\\packages\\microsoft.netcore.app.host.win-arm64\\6.0.7\\microsoft.netcore.app.host.win-arm64.6.0.7.nupkg.sha512",
+    "C:\\Users\\simonabras\\.nuget\\packages\\microsoft.aspnetcore.app.ref\\6.0.7\\microsoft.aspnetcore.app.ref.6.0.7.nupkg.sha512"
+  ],
+  "logs": []
+}
