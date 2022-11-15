@@ -15,6 +15,23 @@ namespace Ex1
             this._age = age;
         }
 
+        // Propriétés
+        public string Name
+        {
+            get { return _name; }
+            set { _name = value; }
+        }
+        public string Race
+        {
+            get { return _race; }
+            set { _race = value; }
+        }
+        public uint Age
+        {
+            get { return _age; }
+            set { _age = value; }
+        }
+
         public string ShowDetails()
         {
             return $"Name: {this._name} | Race: {this._race} | Age: {this._age}";
