@@ -15,7 +15,7 @@ namespace Ex1
             this._age = age;
         }
 
-        // Propriétés
+        // Properties
         public string Name
         {
             get { return _name; }
@@ -32,6 +32,7 @@ namespace Ex1
             set { _age = value; }
         }
 
+        // Methods
         public string ShowDetails()
         {
             return $"Name: {this._name} | Race: {this._race} | Age: {this._age}";
