@@ -1,4 +1,4 @@
-namespace ACT4
+namespace Ex1
 {
     class Cercle
     {
