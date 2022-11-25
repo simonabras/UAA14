@@ -32,14 +32,17 @@ namespace ACT3BIS
         private void Poeples_PreviewTextInput(object sender, TextCompositionEventArgs e)
         {
             TextBox poeplesBox = ((TextBox)sender);
+            // Vérifier si l'entrée est un entier
             if (!int.TryParse(e.Text, out int number))
             {
                 e.Handled = true;
             }
+            // Vérifier si l'entrée est entre 1 et 6
             if(number < 1 || number > 6)
             {
                 e.Handled = true;
             }
+            // Vérifier si l'entrée existe déjà
             if(poeplesBox.Text != String.Empty)
             {
                 e.Handled = true;
