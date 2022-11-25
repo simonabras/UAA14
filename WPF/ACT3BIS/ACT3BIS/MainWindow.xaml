@@ -1,0 +1,45 @@
+﻿<Window x:Class="ACT3BIS.MainWindow"
+        xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+        xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+        xmlns:d="http://schemas.microsoft.com/expression/blend/2008"
+        xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006"
+        xmlns:local="clr-namespace:ACT3BIS"
+        mc:Ignorable="d"
+        Title="Réservation vacances" Height="350" Width="560" FontSize="14" FontWeight="Bold">
+    <Grid Background="#b7a4ee">
+        <WrapPanel VerticalAlignment="Top">
+            <GroupBox Header="TYPE DE LOGEMENT" Margin="10" Height="100" Width="180">
+                <StackPanel Margin="10">
+                    <RadioButton x:Name="Chalet" HorizontalAlignment="Center" Margin="5">CHALET</RadioButton>
+                    <RadioButton x:Name="Tent" HorizontalAlignment="Center" Margin="5">TENTE</RadioButton>
+                </StackPanel>
+            </GroupBox>
+            <GroupBox Header="CARACTERISTIQUES DU SEJOUR" Margin="10" Height="140" Width="280">
+                <WrapPanel>
+                    <Label>Nbre de personnes (entre 1 et 6):</Label>
+                    <TextBox Height="20" Width="20" x:Name="Poeples" PreviewTextInput="Poeples_PreviewTextInput"></TextBox>
+                    <Label>Date d'arrivée:</Label>
+                    <TextBox Height="20" Width="100" x:Name="Date1"></TextBox>
+                    <Label>Date de sortie:</Label>
+                    <TextBox Height="20" Width="100" x:Name="Date2"></TextBox>
+                    <Button Height="22" x:Name="CalculTime" Click="CalculTime_Click">CALCULER DUREE</Button>
+                    <Label>durée en semaines</Label>
+                </WrapPanel>
+            </GroupBox>
+        </WrapPanel>
+        <CheckBox Margin="15" VerticalAlignment="Center" x:Name="Reservation">RESERVATION</CheckBox>
+        <WrapPanel VerticalAlignment="Bottom">
+            <GroupBox Header="RESULTATS" Margin="10" FontWeight="Bold" Height="100" Width="320" HorizontalAlignment="Left">
+                <WrapPanel Margin="10">
+                    <Label>Prix à payer :</Label>
+                    <TextBlock Margin="5" Width="180" x:Name="Price"></TextBlock>
+                    <Label>Nombre de semaines :</Label>
+                    <TextBlock Margin="5" Width="120" x:Name="Weeks"></TextBlock>
+                </WrapPanel>
+            </GroupBox>
+            <StackPanel HorizontalAlignment="Right" Margin="40">
+                <Button Height="30" Width="120" x:Name="CalculPrice" Click="CalculPrice_Click" Background="Yellow">CALCULER PRIX</Button>
+            </StackPanel>
+        </WrapPanel>
+    </Grid>
+</Window>
