@@ -29,9 +29,5 @@ namespace Ex2
         {
             return Math.Sqrt(this._reel * this._reel + this._imaginaire * this._imaginaire);
         }
-        public string AfficheComplexe()
-        {
-            
-        }
     }
 }
