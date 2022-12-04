@@ -1,0 +1,15 @@
+/Users/simonabras/Documents/Dev/ITN/Git/UAA14/POO/ACT4/Ex2/bin/Debug/net6.0/Ex2
+/Users/simonabras/Documents/Dev/ITN/Git/UAA14/POO/ACT4/Ex2/bin/Debug/net6.0/Ex2.deps.json
+/Users/simonabras/Documents/Dev/ITN/Git/UAA14/POO/ACT4/Ex2/bin/Debug/net6.0/Ex2.runtimeconfig.json
+/Users/simonabras/Documents/Dev/ITN/Git/UAA14/POO/ACT4/Ex2/bin/Debug/net6.0/Ex2.dll
+/Users/simonabras/Documents/Dev/ITN/Git/UAA14/POO/ACT4/Ex2/bin/Debug/net6.0/ref/Ex2.dll
+/Users/simonabras/Documents/Dev/ITN/Git/UAA14/POO/ACT4/Ex2/bin/Debug/net6.0/Ex2.pdb
+/Users/simonabras/Documents/Dev/ITN/Git/UAA14/POO/ACT4/Ex2/obj/Debug/net6.0/Ex2.csproj.AssemblyReference.cache
+/Users/simonabras/Documents/Dev/ITN/Git/UAA14/POO/ACT4/Ex2/obj/Debug/net6.0/Ex2.GeneratedMSBuildEditorConfig.editorconfig
+/Users/simonabras/Documents/Dev/ITN/Git/UAA14/POO/ACT4/Ex2/obj/Debug/net6.0/Ex2.AssemblyInfoInputs.cache
+/Users/simonabras/Documents/Dev/ITN/Git/UAA14/POO/ACT4/Ex2/obj/Debug/net6.0/Ex2.AssemblyInfo.cs
+/Users/simonabras/Documents/Dev/ITN/Git/UAA14/POO/ACT4/Ex2/obj/Debug/net6.0/Ex2.csproj.CoreCompileInputs.cache
+/Users/simonabras/Documents/Dev/ITN/Git/UAA14/POO/ACT4/Ex2/obj/Debug/net6.0/Ex2.dll
+/Users/simonabras/Documents/Dev/ITN/Git/UAA14/POO/ACT4/Ex2/obj/Debug/net6.0/ref/Ex2.dll
+/Users/simonabras/Documents/Dev/ITN/Git/UAA14/POO/ACT4/Ex2/obj/Debug/net6.0/Ex2.pdb
+/Users/simonabras/Documents/Dev/ITN/Git/UAA14/POO/ACT4/Ex2/obj/Debug/net6.0/Ex2.genruntimeconfig.cache

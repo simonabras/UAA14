@@ -9,8 +9,8 @@ namespace Ex2
         // Constructor
         public Complexe(double reel, double imaginaire)
         {
-            this._reel = reel;
-            this._imaginaire = imaginaire;
+            _reel = reel;
+            _imaginaire = imaginaire;
         }
 
         // Properties
@@ -25,9 +25,19 @@ namespace Ex2
             set { _imaginaire = value; }
         }
         // Methods
-        public double CalculeModule()
+        public string AfficheComplexe()
         {
-            return Math.Sqrt(this._reel * this._reel + this._imaginaire * this._imaginaire);
+            return $"{_reel.ToString("0.00")}, {_imaginaire.ToString("0.00")}";
+        }
+        public string CalculeModule()
+        {
+            double module = Math.Sqrt(_reel * _reel + _imaginaire * _imaginaire);
+            return $"{module.ToString("0.00")}";
+        }
+        public void Ajout(double reel, double imaginaire)
+        {
+            _reel += reel;
+            _imaginaire += imaginaire;
         }
     }
 }
