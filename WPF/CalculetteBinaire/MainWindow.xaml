@@ -1,0 +1,30 @@
+﻿<Window x:Class="CalculetteBinaire.MainWindow"
+        xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+        xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+        xmlns:d="http://schemas.microsoft.com/expression/blend/2008"
+        xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006"
+        xmlns:local="clr-namespace:CalculetteBinaire"
+        mc:Ignorable="d"
+        Title="MainWindow" Height="450" Width="800" Background="MediumPurple" Foreground="White" FontSize="30" FontWeight="Bold">
+    <Grid x:Name="grd">
+        <WrapPanel Grid.Row="0" Grid.Column="0" VerticalAlignment="Center" Margin="20">
+            <StackPanel Margin="50">
+                <TextBlock>Nombre 1</TextBlock>
+                <TextBox x:Name="nbr1" Width="300"></TextBox>
+                <TextBlock>Nombre 2</TextBlock>
+                <TextBox x:Name="nbr2" Width="300"></TextBox>
+                <Button x:Name="calcul" Margin="20" Click="calcul_Click">CALCULER</Button>
+            </StackPanel>
+            <StackPanel>
+                <GroupBox Header="OPERATION" Margin="20" Grid.Row="0" Grid.Column="1">
+                    <StackPanel VerticalAlignment="Center" Margin="10">
+                        <RadioButton x:Name="addition">Addition</RadioButton>
+                        <RadioButton x:Name="soustraction">Soustraction</RadioButton>
+                    </StackPanel>
+                </GroupBox>
+                <TextBlock Background="Gray">RESULTAT</TextBlock>
+                <TextBlock x:Name="result" Foreground="Yellow" Background="Black"></TextBlock>
+            </StackPanel>
+        </WrapPanel>
+    </Grid>
+</Window>
