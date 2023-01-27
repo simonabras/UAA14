@@ -1,0 +1,15 @@
+/Users/simonabras/Documents/Dev/ITN/Git/UAA14/POO/I623_Simon/bin/Debug/net6.0/I623_Simon
+/Users/simonabras/Documents/Dev/ITN/Git/UAA14/POO/I623_Simon/bin/Debug/net6.0/I623_Simon.deps.json
+/Users/simonabras/Documents/Dev/ITN/Git/UAA14/POO/I623_Simon/bin/Debug/net6.0/I623_Simon.runtimeconfig.json
+/Users/simonabras/Documents/Dev/ITN/Git/UAA14/POO/I623_Simon/bin/Debug/net6.0/I623_Simon.dll
+/Users/simonabras/Documents/Dev/ITN/Git/UAA14/POO/I623_Simon/bin/Debug/net6.0/ref/I623_Simon.dll
+/Users/simonabras/Documents/Dev/ITN/Git/UAA14/POO/I623_Simon/bin/Debug/net6.0/I623_Simon.pdb
+/Users/simonabras/Documents/Dev/ITN/Git/UAA14/POO/I623_Simon/obj/Debug/net6.0/I623_Simon.csproj.AssemblyReference.cache
+/Users/simonabras/Documents/Dev/ITN/Git/UAA14/POO/I623_Simon/obj/Debug/net6.0/I623_Simon.GeneratedMSBuildEditorConfig.editorconfig
+/Users/simonabras/Documents/Dev/ITN/Git/UAA14/POO/I623_Simon/obj/Debug/net6.0/I623_Simon.AssemblyInfoInputs.cache
+/Users/simonabras/Documents/Dev/ITN/Git/UAA14/POO/I623_Simon/obj/Debug/net6.0/I623_Simon.AssemblyInfo.cs
+/Users/simonabras/Documents/Dev/ITN/Git/UAA14/POO/I623_Simon/obj/Debug/net6.0/I623_Simon.csproj.CoreCompileInputs.cache
+/Users/simonabras/Documents/Dev/ITN/Git/UAA14/POO/I623_Simon/obj/Debug/net6.0/I623_Simon.dll
+/Users/simonabras/Documents/Dev/ITN/Git/UAA14/POO/I623_Simon/obj/Debug/net6.0/ref/I623_Simon.dll
+/Users/simonabras/Documents/Dev/ITN/Git/UAA14/POO/I623_Simon/obj/Debug/net6.0/I623_Simon.pdb
+/Users/simonabras/Documents/Dev/ITN/Git/UAA14/POO/I623_Simon/obj/Debug/net6.0/I623_Simon.genruntimeconfig.cache

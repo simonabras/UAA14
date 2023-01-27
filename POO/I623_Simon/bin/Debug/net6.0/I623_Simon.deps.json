@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v6.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v6.0": {
+      "I623_Simon/1.0.0": {
+        "runtime": {
+          "I623_Simon.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "I623_Simon/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}
