@@ -1,0 +1,15 @@
+/Users/simonabras/Documents/Dev/ITN/Git/UAA14/POO/Heritage2/bin/Debug/net6.0/Heritage2
+/Users/simonabras/Documents/Dev/ITN/Git/UAA14/POO/Heritage2/bin/Debug/net6.0/Heritage2.deps.json
+/Users/simonabras/Documents/Dev/ITN/Git/UAA14/POO/Heritage2/bin/Debug/net6.0/Heritage2.runtimeconfig.json
+/Users/simonabras/Documents/Dev/ITN/Git/UAA14/POO/Heritage2/bin/Debug/net6.0/Heritage2.dll
+/Users/simonabras/Documents/Dev/ITN/Git/UAA14/POO/Heritage2/bin/Debug/net6.0/ref/Heritage2.dll
+/Users/simonabras/Documents/Dev/ITN/Git/UAA14/POO/Heritage2/bin/Debug/net6.0/Heritage2.pdb
+/Users/simonabras/Documents/Dev/ITN/Git/UAA14/POO/Heritage2/obj/Debug/net6.0/Heritage2.csproj.AssemblyReference.cache
+/Users/simonabras/Documents/Dev/ITN/Git/UAA14/POO/Heritage2/obj/Debug/net6.0/Heritage2.GeneratedMSBuildEditorConfig.editorconfig
+/Users/simonabras/Documents/Dev/ITN/Git/UAA14/POO/Heritage2/obj/Debug/net6.0/Heritage2.AssemblyInfoInputs.cache
+/Users/simonabras/Documents/Dev/ITN/Git/UAA14/POO/Heritage2/obj/Debug/net6.0/Heritage2.AssemblyInfo.cs
+/Users/simonabras/Documents/Dev/ITN/Git/UAA14/POO/Heritage2/obj/Debug/net6.0/Heritage2.csproj.CoreCompileInputs.cache
+/Users/simonabras/Documents/Dev/ITN/Git/UAA14/POO/Heritage2/obj/Debug/net6.0/Heritage2.dll
+/Users/simonabras/Documents/Dev/ITN/Git/UAA14/POO/Heritage2/obj/Debug/net6.0/ref/Heritage2.dll
+/Users/simonabras/Documents/Dev/ITN/Git/UAA14/POO/Heritage2/obj/Debug/net6.0/Heritage2.pdb
+/Users/simonabras/Documents/Dev/ITN/Git/UAA14/POO/Heritage2/obj/Debug/net6.0/Heritage2.genruntimeconfig.cache
