@@ -1,0 +1,15 @@
+/Users/simonabras/Documents/Dev/ITN/Git/UAA14/POO/Bank/bin/Debug/net6.0/Bank
+/Users/simonabras/Documents/Dev/ITN/Git/UAA14/POO/Bank/bin/Debug/net6.0/Bank.deps.json
+/Users/simonabras/Documents/Dev/ITN/Git/UAA14/POO/Bank/bin/Debug/net6.0/Bank.runtimeconfig.json
+/Users/simonabras/Documents/Dev/ITN/Git/UAA14/POO/Bank/bin/Debug/net6.0/Bank.dll
+/Users/simonabras/Documents/Dev/ITN/Git/UAA14/POO/Bank/bin/Debug/net6.0/ref/Bank.dll
+/Users/simonabras/Documents/Dev/ITN/Git/UAA14/POO/Bank/bin/Debug/net6.0/Bank.pdb
+/Users/simonabras/Documents/Dev/ITN/Git/UAA14/POO/Bank/obj/Debug/net6.0/Bank.csproj.AssemblyReference.cache
+/Users/simonabras/Documents/Dev/ITN/Git/UAA14/POO/Bank/obj/Debug/net6.0/Bank.GeneratedMSBuildEditorConfig.editorconfig
+/Users/simonabras/Documents/Dev/ITN/Git/UAA14/POO/Bank/obj/Debug/net6.0/Bank.AssemblyInfoInputs.cache
+/Users/simonabras/Documents/Dev/ITN/Git/UAA14/POO/Bank/obj/Debug/net6.0/Bank.AssemblyInfo.cs
+/Users/simonabras/Documents/Dev/ITN/Git/UAA14/POO/Bank/obj/Debug/net6.0/Bank.csproj.CoreCompileInputs.cache
+/Users/simonabras/Documents/Dev/ITN/Git/UAA14/POO/Bank/obj/Debug/net6.0/Bank.dll
+/Users/simonabras/Documents/Dev/ITN/Git/UAA14/POO/Bank/obj/Debug/net6.0/ref/Bank.dll
+/Users/simonabras/Documents/Dev/ITN/Git/UAA14/POO/Bank/obj/Debug/net6.0/Bank.pdb
+/Users/simonabras/Documents/Dev/ITN/Git/UAA14/POO/Bank/obj/Debug/net6.0/Bank.genruntimeconfig.cache

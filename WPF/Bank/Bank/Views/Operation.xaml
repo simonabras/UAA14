@@ -1,0 +1,34 @@
+﻿<Page x:Class="Bank.Views.Operation"
+      xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+      xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+      xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006" 
+      xmlns:d="http://schemas.microsoft.com/expression/blend/2008" 
+      xmlns:local="clr-namespace:Bank.Views"
+      mc:Ignorable="d" 
+      d:DesignHeight="450" d:DesignWidth="800"
+      Title="Operation">
+    <Grid VerticalAlignment="Center">
+        <StackPanel>
+            <Label FontWeight="Bold">Virement</Label>
+            <WrapPanel>
+                <Label Margin="10">Compte donneur</Label>
+                <TextBox x:Name="account_donator" Height="30" Width="200"></TextBox>
+            </WrapPanel>
+            <WrapPanel>
+                <Label Margin="10">Compte receveur</Label>
+                <TextBox x:Name="account_receiver" Height="30" Width="200"></TextBox>
+            </WrapPanel>
+            <WrapPanel>
+                <Label Margin="10">Montant</Label>
+                <TextBox x:Name="amount" Height="30" Width="200"></TextBox>
+            </WrapPanel>
+            <WrapPanel>
+                <Label Margin="10">Communication</Label>
+                <TextBox x:Name="communication" Height="30" Width="200"></TextBox>
+            </WrapPanel>
+            <WrapPanel>
+                <Button x:Name="transfer" Height="40" Width="300">EXECUTER</Button>
+            </WrapPanel>
+        </StackPanel>
+    </Grid>
+</Page>
